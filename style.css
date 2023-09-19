@@ -74,7 +74,7 @@ body {
 
 }
 
-
+/*
 .pause {
 
    width: 80px;
@@ -83,15 +83,15 @@ body {
    height: 30px;
 
 
-}
+}*/
 
-.pause:hover {
+/*.pause:hover {
    color: rgb(44, 25, 0);
    width: 80px;
    background-color: rgb(208, 208, 208);
    border-radius: 10px;
 
-}
+}*/
 
 
 
