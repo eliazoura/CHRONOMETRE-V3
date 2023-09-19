@@ -9,6 +9,7 @@ let resetEl = document.getElementById("reset");
 let pausEl = document.getElementById("pause");
 
 
+
 //let stopEl = document.getElementById("stop");
 
 
