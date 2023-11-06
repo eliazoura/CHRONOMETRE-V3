@@ -1,0 +1,125 @@
+body {
+  margin: 0px 0px 0px 0px;
+  box-sizing: border-box;
+  padding: 0%;
+
+  margin: 0px 0px 0px 0px;
+
+  background-color: rgb(14, 8, 0);
+
+  /*corriger le margin top pour qu'il se cale automatiquement au centre de 'window' */
+  height: 100vh;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: black;
+  color: antiquewhite;
+  text-align: center;
+  margin: 0px auto;
+  height: 100px;
+}
+
+/*  */
+
+.container {
+  width: 50vh;
+
+  margin: auto;
+  border-radius: 20px;
+}
+
+.time-container1 {
+  display: flex;
+
+  font-size: 3rem;
+  color: aliceblue;
+}
+
+.time-container2 {
+  font-size: 3rem;
+  color: aliceblue;
+}
+
+.time1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100px;
+}
+
+.time2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100px;
+}
+
+/*ol {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(6, 143, 20);
+
+  column-gap: 50px;
+
+
+}*/
+
+/*li {
+
+
+  list-style: none;
+
+
+  font-size: xx-large;
+  width: 80px;
+  height: 80px;
+  color: bisque;
+  background-color: black;
+
+}*/
+/*ol > li > p {
+  text-align: center;
+}*/
+
+/*  */
+
+/* */
+
+/*  */
+.lesbtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*row-gap: 10px;*/
+  /*height: 300px;*/
+  /*margin: auto;*/
+  /*position: absolute;*/
+
+  /*position: relative;*/
+  /*top: 140px;*/
+  /*left: 717px;*/
+  /*width: 300px;*/
+  /*justify-content: space-between;*/
+  /*margin: auto;*/
+
+  /*width: 15rem;*/
+  /*height: 50px;*/
+}
+.reset,
+.pause {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100px;
+  height: 100px;
+  color: bisque;
+  background-color: chocolate;
+  border-radius: 100px;
+}
